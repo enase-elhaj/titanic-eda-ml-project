@@ -235,3 +235,8 @@ End-to-end ML workflow creation
 Random Forest Feature Importance
 
 Visualization & Insights Extraction
+
+📌 Author
+
+Developed by Enas Elhaj 
+Graduate Student, Applied AI & Data Science University of Denver
