@@ -8,13 +8,13 @@ It includes data cleaning, feature engineering, exploratory visualization, and m
 It is designed as a showcase project for AI/Data Science internships, demonstrating applied skills in Python, EDA, modeling, and evaluation.
 
 📁 Project Structure
-"
+
 ML/
-│── titanic_eda.ipynb             # Full exploratory analysis & cleaning
-│── titanic_modeling.ipynb        # ML modeling pipeline
-│── titanic_cleaned.csv           # Final cleaned dataset for modeling
-│── README.md                     # Project documentation
-"
+├── titanic_eda.ipynb # Full exploratory analysis & cleaning
+├── titanic_modeling.ipynb # ML modeling pipeline
+├── titanic_cleaned.csv # Final cleaned dataset for modeling
+└── README.md # Project documentation
+
 1. Project Overview
 
 This project analyzes survival patterns on the Titanic using:
